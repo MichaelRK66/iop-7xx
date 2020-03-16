@@ -1,5 +1,7 @@
-# iop-1xx
+# iop-7xx
 
-https://michaelrk66.github.io/iop-1xx/
+https://michaelrk66.github.io/iop-7xx/
 
-WEB-225-3473 Multimedia for the Web | iop-1xx repo
+http://iop-7xx.mikekoros.com/
+
+WEB-225-3473 Multimedia for the Web | iop-7xx repo
