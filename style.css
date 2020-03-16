@@ -1,0 +1,19 @@
+/* CSS Document */
+
+body {
+  background-image: url("Silhouette by Alexander Khokhlov.png");
+  background-size: 25%;
+}
+
+h1 {
+  color: #fff; 
+  text-align:center; 
+  font-size:50px
+}
+.container {
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+/* thought I'd try out some tricks */
