@@ -13,3 +13,7 @@ WEB-225-3473 Multimedia for the Web inside-out-project - iop-7xx STEP-700.0 | Br
 - created styles for snow-scarlett divs
 - linked style.css in index.html
 
+WEB-225-3473 Multimedia for the Web inside-out-project - iop-7xx STEP-701.0 | Branch 701-0
+- added snow-scarlett face and hat divs to index.html
+- created styles in style.css for snow-scarlett face and hat divs
+
